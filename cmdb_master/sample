@@ -1,0 +1,37 @@
+{'1': {'iftype': 'hrStorageRam', 'ifDescr': 'Physical memory', 'ifunits': '1024', 'ifSize': '1764228', 'ifused': '1674100'}, '3': {'iftype': 'hrStorageVirtualMemory', 'ifDescr': 'Virtual memory', 'ifunits': '1024', 'ifSize': '3588992', 'ifused': '1742348'}, '6': {'iftype': 'hrStorageOther', 'ifDescr': 'Memory buffers', 'ifunits': '1024', 'ifSize': '1764228', 'ifused': '179348'}, '7': {'iftype': 'hrStorageOther', 'ifDescr': 'Cached memory', 'ifunits': '1024', 'ifSize': '867916', 'ifused': '867916'}, '8': {'iftype': 'hrStorageOther', 'ifDescr': 'Shared memory', 'ifunits': '1024', 'ifSize': '18564', 'ifused': '18564'}, '10': {'iftype': 'hrStorageVirtualMemory', 'ifDescr': 'Swap space', 'ifunits': '1024', 'ifSize': '1824764', 'ifused': '68248'}, '31': {'iftype': 'hrStorgeFixedDisk', 'ifDescr': '/', 'ifunits': '4096', 'ifSize': '4678002', 'ifused': '2909410'}, '37': {'iftype': 'hrStorgeFixedDisk', 'ifDescr': '/run', 'ifunits': '4096', 'ifSize': '44106', 'ifused': '6244'}, '39': {'iftype': 'hrStorgeFixedDisk', 'ifDescr': '/dev/shm', 'ifunits': '4096', 'ifSize': '220528', 'ifused': '0'}, '40': {'iftype': 'hrStorgeFixedDisk', 'ifDescr': '/run/lock', 'ifunits': '4096', 'ifSize': '1280', 'ifused': '0'}, '41': {'iftype': 'hrStorgeFixedDisk', 'ifDescr': '/sys/fs/cgroup', 'ifunits': '4096', 'ifSize': '220528', 'ifused': '0'}, '60': {'iftype': 'hrStorgeFixedDisk', 'ifDescr': '/var/lib/docker/plugins', 'ifunits': '4096', 'ifSize': '4678002', 'ifused': '2909410'}, '61': {'iftype': 'hrStorgeFixedDisk', 'ifDescr': '/var/lib/docker/overlay2', 'ifunits': '4096', 'ifSize': '4678002', 'ifused': '2909410'}, '62': {'iftype': 'hrStorgeFixedDisk', 'ifDescr': '/var/lib/kubelet/pods/d99de0c7-e625-11e8-8627-000c2910bd97/volumes/kubernetes.io~secret/default-token-z0p94', 'ifunits': '4096', 'ifSize': '220528', 'ifused': '3'}, '63': {'iftype': 'hrStorgeFixedDisk', 'ifDescr': '/var/lib/kubelet/pods/d9b1e7a3-e625-11e8-8627-000c2910bd97/volumes/kubernetes.io~secret/default-token-z0p94', 'ifunits': '4096', 'ifSize': '220528', 'ifused': '3'}, '66': {'iftype': 'hrStorgeFixedDisk', 'ifDescr': '/var/lib/docker/containers/54e8fc9275fcfd55f58465f98600a3188053561b918ed6dc17d29a1324f0385a/shm', 'ifunits': '4096', 'ifSize': '16384', 'ifused': '0'}, '67': {'iftype': 'hrStorgeFixedDisk', 'ifDescr': '/var/lib/docker/containers/ce454a4843828d999a3a9cb00cd8535ea7ac49ddd84f40bf276e73edff76e55b/shm', 'ifunits': '4096', 'ifSize': '16384', 'ifused': '0'}, '70': {'iftype': 'hrStorgeFixedDisk', 'ifDescr': '/run/user/0', 'ifunits': '4096', 'ifSize': '44106', 'ifused': '0'}, '72': {'iftype': 'hrStorgeFixedDisk', 'ifDescr': '/var/lib/docker/containers/7f35f1bf01968845c48263b0506facb556f60d687877304a9c5f40ca06fec732/shm', 'ifunits': '0', 'ifSize': '0', 'ifused': '0'}, '75': {'iftype': 'hrStorgeFixedDisk', 'ifDescr': '/var/lib/docker/containers/3529da74fe31bbe39090582290ce5d8b061187f286296248e0c1780c61a1ef6d/shm', 'ifunits': '0', 'ifSize': '0', 'ifused': '0'}, '78': {'iftype': 'hrStorgeFixedDisk', 'ifDescr': '/var/lib/docker/containers/9f0966daebc71d875bcaef3254e029d2e582e101d495141c725188ce62966ea6/shm', 'ifunits': '0', 'ifSize': '0', 'ifused': '0'}, '81': {'iftype': 'hrStorgeFixedDisk', 'ifDescr': '/var/lib/docker/containers/5039e9366763abeefd1cd6d1dbf721f33d7fedfc15d0f367875f41e5d3f1f827/shm', 'ifunits': '0', 'ifSize': '0', 'ifused': '0'}}
+1
+3
+6
+7
+8
+10
+31
+37
+39
+40
+41
+60
+61
+62
+63
+66
+67
+70
+72
+75
+78
+81
+{'1': {'ifName': 'lo', 'ifDescr': 'lo', 'ifType': 'softwareLoopback', 'ifMtu': '65536', 'ifSpeed': '10000000', 'ifPhysAddress': '', 'ipAdentAddr': '127.0.0.1', 'ipAdEntNetMask': '255.0.0.0'}, '2': {'ifName': 'eth0', 'ifDescr': 'Intel Corporation 82545EM Gigabit Ethernet Controller (Copper)', 'ifType': 'ethernetCsmacd', 'ifMtu': '1500', 'ifSpeed': '1000000000', 'ifPhysAddress': '00:0c:29:10:bd:97', 'ipAdentAddr': '192.168.4.178', 'ipAdEntNetMask': '255.255.255.0'}, '3': {'ifName': 'flannel.1', 'ifDescr': 'flannel.1', 'ifType': 'ethernetCsmacd', 'ifMtu': '1450', 'ifSpeed': '0', 'ifPhysAddress': 'e6:ad:8a:ce:a5:cb', 'ipAdentAddr': '172.30.21.0', 'ipAdEntNetMask': '255.255.255.255'}, '4': {'ifName': 'docker0', 'ifDescr': 'docker0', 'ifType': 'ethernetCsmacd', 'ifMtu': '1450', 'ifSpeed': '0', 'ifPhysAddress': '02:42:8b:ac:36:2c', 'ipAdentAddr': '172.30.21.1', 'ipAdEntNetMask': '255.255.255.0'}, '6': {'ifName': 'vethb181331', 'ifDescr': 'vethb181331', 'ifType': 'ethernetCsmacd', 'ifMtu': '1450', 'ifSpeed': '4294967295', 'ifPhysAddress': 'ce:23:f1:a6:14:b4', 'ipAdentAddr': '', 'ipAdEntNetMask': ''}, '8': {'ifName': 'veth243afcd', 'ifDescr': 'veth243afcd', 'ifType': 'ethernetCsmacd', 'ifMtu': '1450', 'ifSpeed': '4294967295', 'ifPhysAddress': 'f6:ae:bd:c6:6e:a0', 'ipAdentAddr': '', 'ipAdEntNetMask': ''}, '10': {'ifName': 'veth6e55fc3', 'ifDescr': 'veth6e55fc3', 'ifType': 'ethernetCsmacd', 'ifMtu': '1450', 'ifSpeed': '4294967295', 'ifPhysAddress': 'd6:3a:96:5e:6b:6c', 'ipAdentAddr': '', 'ipAdEntNetMask': ''}, '12': {'ifName': 'vethbf3306d', 'ifDescr': 'vethbf3306d', 'ifType': 'ethernetCsmacd', 'ifMtu': '1450', 'ifSpeed': '4294967295', 'ifPhysAddress': '5e:c0:cb:00:50:19', 'ipAdentAddr': '', 'ipAdEntNetMask': ''}, '14': {'ifName': 'vetheca0177', 'ifDescr': 'vetheca0177', 'ifType': 'ethernetCsmacd', 'ifMtu': '1450', 'ifSpeed': '4294967295', 'ifPhysAddress': '1a:27:3a:64:c8:bb', 'ipAdentAddr': '', 'ipAdEntNetMask': ''}, '16': {'ifName': 'vethe03ec65', 'ifDescr': 'vethe03ec65', 'ifType': 'ethernetCsmacd', 'ifMtu': '1450', 'ifSpeed': '4294967295', 'ifPhysAddress': '0a:86:20:34:fd:94', 'ipAdentAddr': '', 'ipAdEntNetMask': ''}}
+1
+2
+3
+4
+6
+8
+10
+12
+14
+16
+['19', '20']
+19
+20
